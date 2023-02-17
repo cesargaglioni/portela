@@ -1,0 +1,2476 @@
+,Ano,Título,Letra,Sentiment_TextBlob,Sentiment_Flair,Decada
+0,1932,Carnaval da Vitória,"Lá vem ela, chorando
+O que é que ela quer?
+Pancada não é
+Já sei
+Mulher da orgia,
+Quando começa a chorar
+Quer dinheiro,
+Dinheiro não há
+Carinho eu tenho demais
+Pra vender e pra dar
+Pancada também
+Não há da faltar
+Dinheiro, isso não
+Isso eu não dou à mulher
+Faço descer à terra
+O céu e as estrelas
+Se ela quiser
+Mas dinheiro não há",0.0,0.9811241030693054,"[1930, 1940)"
+1,1933,Voando para a Glória,"Parei, parei
+De tanto sofrer na vida
+Porque já deixei
+De quem pra mim foi fingida
+Eu arranjei outra que me sabe amar
+E por um golpe de sorte
+Fui muito forte
+Deixei a maré de azar",0.0,0.7857300639152527,"[1930, 1940)"
+2,1934,Academia do Samba,"Sai prá lá brocoió
+Tu não ves qeu onde estou
+No podes te arrumar
+Desta vez tu bancastes o mossoró
+De galocha, sai prá lá brocoió
+
+Eu sempre cantei o samba
+Na base do improviso
+No metiê eu sou bamba
+Verso e não fico indeciso
+Lá em casa tem um gato
+Quando come lambe as unhas
+Também tem cachorro magro
+Que serve de testemunha
+Salve a noite, salve a Pátria
+Salve também o jornal
+Não querendo ir mais longe
+Salve a imprensa em geral
+Vai te embora enganadeira
+Vai enganar teu pai
+Me fez passar vergonha
+Que a cara já me cai",-0.8,0.92503821849823,"[1930, 1940)"
+3,1935,Guanabara (Cidade-mulher),"Cidade
+Quem te fala é um sambista
+Antes já fui um artista
+Seu grande admirador
+Me confesso boquiaberto
+De manhã quando desperto
+Com tamanho esplendor
+Quando noto o infinito
+Apresenta tão bonito
+Trajando o azul-anil
+Vai o sol lá nas alturas
+Dando maior formosura
+À mais linda dama do Brasil
+
+Cidade-mulher !
+São tão lindas tuas matas
+Seus riachos e cascatas
+Deslumbre natural
+Diante de tal beleza
+Que lhe deu a natureza
+E outra não vi igual
+Quando a tarde é cor-de-rosa
+Ainda é mais formosa
+Em cenários sedutores
+Admiração do estrangeiro
+Que orgulham os brasileiros
+E o poeta sonhador",0.1,0.9439430832862854,"[1930, 1940)"
+4,1936,-,-,0.0,0.9696993231773376,"[1930, 1940)"
+5,1937,O Carnaval,"Como é linda a nossa Guanabara
+Jóia rara, que beleza
+Quando o nosso céu
+Está todo azul
+Anoitece e o céu se resplandece
+Em seu bordado de estrelas
+Vê-se o Cruzeiro do Sul
+
+Pão de Açúcar,
+Um gigante
+Fiel e vigilante,
+Da nossa baía
+Orgulhoso, não dorme um instante
+Guardando as riquezas
+Que a natureza cria",0.0,0.8657875657081604,"[1930, 1940)"
+6,1938,-,-,0.0,0.9696993231773376,"[1930, 1940)"
+7,1939,Teste ao Samba,"Vou começar a aula
+Perante a comissão
+Muita atenção! Eu quero ver
+Se diplomá-los posso
+Salve o fessor
+Dá nota a ele senhor
+
+Quatorze com dois são doze
+Noves fora tudo é nosso
+Cem divididos por mil
+Cada um com quatro fica
+
+Não pergunte à caixa surda
+Não peça cola à cuíca
+Nós lá no morro
+Vamos vivendo de amor
+Estudando com carinho
+O que nos passa o professor",0.0,0.9851868748664856,"[1930, 1940)"
+8,1940,-,-,0.0,0.9696993231773376,"[1940, 1950)"
+9,1941,Dez anos de glória,"Vem para me fazer a vontade
+Sem você não tenho mais felicidade
+Nunca mais voltou para rezar no santuário
+O meu coração se transformou em lacrimário",0.0,0.9612289071083069,"[1940, 1950)"
+10,1942,A vida do samba,"Samba foi uma festa dos índios
+Nós o aperfeiçoamos mais
+É uma realidade
+Quando ele desce do morro
+Para viver na cidade
+Samba, tu és muito conhecido
+No mundo inteiro
+Samba, orgulho dos brasileiros
+Foste ao estrangeiro
+E alcançaste grande sucesso
+Muito nos orgulha o teu progresso.",0.0,0.9984960556030273,"[1940, 1950)"
+11,1943,Brasil Terra da Liberdade,"Brasil, terra da liberdade
+Brasil, nunca usou de falsidade
+Hoje estamos em guerra
+Em defesa da nossa terra
+Se a pátria me chama eu vou
+Serei mais um vencedor
+Irei para a linha de frente
+Travar um duelo
+Em defesa do meu pendão
+Verde amarelo
+Embora tenha que ser
+Sentinela perdida
+Honrarei minha Pátria querida",0.0,0.9208292365074158,"[1940, 1950)"
+12,1944,Motivos Patrióticos,"Somos todos brasileiros
+E por ti queremos seguir
+O clarim já tocou reunir
+Adeus minha querida
+Que já vou partir
+Em defesa do nosso país
+O verde, amarelo, branco e azul
+Cor de anil e o meu Brasil
+Oh! Meu torrão abençoado
+Pelos teus filhos adorado
+Seguiremos para a fronteira
+Para defender a vida inteira
+Nossa querida bandeira",0.0,0.9988866448402405,"[1940, 1950)"
+13,1945,Brasil Glorioso,"Brasil terra adorada
+Brasil dos brasileiros
+Conhecido no mundo inteiro
+Como um país hospitaleiro
+Com uma só bandeira
+O Brasil é um país diverso
+Está sempre com os braços abertos
+No Brasil sempre existiu humanidade
+O Brasil é um país sincero
+No Brasil se encontra a liberdade",0.0,0.9960594177246094,"[1940, 1950)"
+14,1946,Alvorada do Novo Mundo,"O carnaval da vitória
+É o que a Portela revela
+Liberdade, progresso, justiça
+Que realiza o valor de um povo herói
+Jamais poderei esquecer
+Essa data sagrada
+Que o mundo inteiro sempre lembrará
+Esse carnaval, cheio de encantos mil
+Lá, lá, lá, lá, lá...
+Canta, canta, meu Brasil",0.0,0.9980888962745667,"[1940, 1950)"
+15,1947,Honra ao Mérito,"Salve Alberto Santos Dumont
+Denominado Pai da Aviação
+Suas glórias imortais
+Salve o filho de Minas Gerais
+Nesse país glorioso
+Tudo encanta, tudo seduz
+Alberto Santos Dumont
+Com sua invenção primeira
+Asas, asas brasileiras",0.0,0.7986291646957397,"[1940, 1950)"
+16,1948,Princesa Isabel,"Foi a Princesa Isabel
+Que nos deu a liberdade
+Libertando aqueles que sofriam
+Foi para ela uma glória
+Deixar o nome na história
+Do Brasil...
+Somente ela quem via
+Como o preto sofria, noite e dia
+Hoje no mundo,
+Preto tem o seu valor profundo",0.0,0.9982250332832336,"[1940, 1950)"
+17,1949,O Despertar do Gigante,"Pedro Álvares Cabral
+Descobriu o Brasil
+Foi casual
+Navegava em alto-mar
+Seu destino era a Índia
+Cabral não podia continuar
+Teve de se afastar
+Das calmarias do mar
+Foi assim que Cabral descobriu
+Um gigante adormecido
+Que hoje se chama Brasil, Brasil
+Pero Vaz de Caminha escreveu
+Numa carta a Dom Manuel
+Explicava que esta terra
+Que Nosso Senhor nos deu
+Dava tudo que plantava
+Relatava as riquezas
+Feitas na natureza",-0.5000000000000001,0.9953191876411438,"[1940, 1950)"
+18,1950,Riquezas do Brasil,"Temos ouro e prata em quantidade
+Temos madeira de qualidade
+Vem ver com seus próprios olhos
+A torre do nosso petróleo
+Vem ver, quem ainda não viu
+As riquezas do nosso Brasil
+Não são só estas
+As riquezas do Brasil
+São diversas
+Temos plantações, riquíssimas meus irmãos
+Que são tesouros da nossa nação
+Se você ainda não viu
+As riquezas do nosso Brasil
+Podem vir ver (estribilho)",0.0,0.9896203279495239,"[1950, 1960)"
+19,1951,A volta do Filho Pródigo,"Trabalhadores do Brasil
+Ele falou
+A lei trabalhista ele deixou
+Aquele que em 30 triunfou
+E se fez credor
+Desse povo justiceiro
+Foi Getúlio Dornelles Vargas
+Esse grande brasileiro
+O bom filho à casa torna
+Ao Catete ele voltou
+Relembrando os seus feitos
+Volta Redonda deixou
+Força Aérea Brasileira
+Que corta esse céu de anil
+Para o orgulho e glória
+Desse adorável Brasil",0.0,0.9159108996391296,"[1950, 1960)"
+20,1952,Brasil de Ontem,"Brasil já não é mais aquele
+Brasil que o tempo levou, levou
+Brasil antigo, de escravo e senhor (senhor)
+Antigamente o sofrimento era demais, demais
+Tronco e pelourinho não existem mais
+
+Antigamente na cidade
+A carruagem era o luxo da mocidade
+As nobres damas, todas faceiras
+Que os escravos carregavam nas liteiras",0.0,0.6671676635742188,"[1950, 1960)"
+21,1953,Seis datas magnas,"Foi Tiradentes o Inconfidente
+e foi condenado à morte
+trinta anos depois o Brasil tornou-se independente
+era o ideal de formar um país livre e forte
+Independência ou morte
+D. Pedro proferiu
+mais uma nação livre era o Brasil.
+Foi em 1865 que a história nos traz
+Riachuelo e Tuiuti foram duas grandes vitórias reais
+foram os marechais Deodoro e Floriano e outros vultos mais
+que proclamaram a República e tantos anos após foram criados
+Hinos da Pátria amada
+nossa bandeira foi aclamada
+pelo mundo todo foi desfraldada.",0.9,0.9838171005249023,"[1950, 1960)"
+22,1954,São Paulo quatrocentão,"São Paulo
+tu és o celeiro da nossa Nação
+por isso mereces teu quatrocentão
+e em tua homenagem nos congratulamos
+
+São Paulo
+com teus cafezais, tua indústria fabril
+tu és o orgulho do nosso Brasil
+
+São Paulo
+tu és cidade-orgulho de nossa nação
+tu és a cidade-jardim
+
+Terra da Promissão
+Tu és, São Paulo, centro industrial
+Verdadeiro arsenal desta imensa Nação
+Salve teus quatro centenários
+teus bandeirantes lendários
+desbravando o sertão
+Salve teus bravos fundadores
+que têm seu nome na história
+Salve teu povo varonil
+orgulho do nosso Brasil
+foste formado com honras e glórias",0.0,0.9982812404632568,"[1950, 1960)"
+23,1955,Festa junina em fevereiro,"A Fazenda alegre ficou
+Quando se anunciou
+O casamento da filha
+De Antônio João Pedro Santana
+Conhecido Coroné Carreteiro
+Com a filha do afamado José Fagueiro
+Que verdadeira maravilha
+Em noite de fevereiro
+Todos dançando a quadrilha
+A festança está tão bela
+Com as sinhazinhas tão exuberantes
+E o cura inaugurando a nova capela
+Que ficou ainda bem mais linda
+Ao receber o fulgor da fogueira trepidante",0.0,0.9982128143310547,"[1950, 1960)"
+24,1956,Riquezas do Brasil,"Brasil tu eras uma dádiva divina
+cacau, cana-de-açúcar e algodão
+borracha, mate e café
+produtos desta imensa nação
+tem-se o campo tão fértil em matéria-prima
+e a tua riqueza inveja o mundo
+és belo, forte e varonil
+Brasil, Brasil, Brasil.
+
+Tuas gloriosas Forças Armadas
+com desvelo zelam pelo teu tesouro
+em tua história consagrada
+escreveram páginas de ouro.
+
+Guias defensores do amanhã
+futuros doutorandos do Brasil
+estejam sempre alertas
+tragam uma lembrança
+o conselho do poeta
+criança não haverá país nenhum como este
+imitam na grandeza
+a terra em que nasceste.",0.0,0.9954525828361511,"[1950, 1960)"
+25,1957,Legados de D. João 6,"Quando veio para a nação que mais tarde o consagraria
+D. João VI no navio majestoso ao passar pela Bahia
+instituiu novos textos abrindo os portos do Brasil
+para o mercado universal
+logo após seguiu o seu roteiro
+com destino ao Rio de Janeiro.
+Quando aqui chegou
+desembarcou com toda a família real
+incomensurável séquito
+vulto de notável mérito
+o eminente príncipe regente.
+Um ano depois sua alteza ordenou
+a invasão da Guiana Francesa
+e depois criou com sabedoria
+a Academia da Marinha, o Selo Nacional
+Escola de Belas-Artes, também o primeiro jornal.
+Mais tarde o povo aclamou esta figura de grande marca
+unida em cores mil
+Viva o grande monarca regente do destino do Brasil.",0.1,0.9868583679199219,"[1950, 1960)"
+26,1958,Vultos e efemérides,"Em vinte e dois de abril de mil e quinhentos
+nosso gigante vi cair
+por diante com amor edificou
+essa grande pátria varonil
+e Portugal ao mundo revelou
+Brasil, ô meu Brasil.
+
+Tiradentes, o mártir inconfidente
+o pioneiro do Brasil independente
+da Inconfidência Mineira
+bela página brasileira
+do exemplo de amor à liberdade.
+
+José Bonifácio mentor de inteligência
+influenciou d. Pedro I
+a dar o grito da independência.
+
+A princesa Isabel foi o anjo da Abolição
+Deodoro, Rui Barbosa e Quintino Bocaiúva
+os baluartes da Proclamação.",0.0,0.9869779944419861,"[1950, 1960)"
+27,1959,Brasil Pantheon de Glória,"Brasil, pantheon de glória
+Salve! Os heróis da nossa história.
+Há muitos anos atrás
+Felipe Camarão e outros vultos mais
+expulsaram os invasores
+do território nacional
+Salve! Caxias imortal guerreiro
+patrono do brioso Exército brasileiro.
+
+Santos Dumont
+pioneiro da aviação
+Rui Barbosa
+imortalizou a nação
+com sua rara inteligência
+Salve a FEB imponente viril
+nós saudamos as glórias do Brasil.
+
+Lá, lá, lá
+lará, lará",0.0,0.9991157650947571,"[1950, 1960)"
+28,1960,"Rio, capital eterna do samba","Cidade de São Sebastião do Rio de Janeiro
+rainha das paisagens
+maravilha do mundo inteiro
+o teu cenário histórico
+passamos a ilustrar
+o sonho do teu fundador, Estácio de Sá
+simbolizando em cânticos alegres
+hoje viemos exaltar.
+Estão consumados
+cidade, teus ideais
+apologia aos teus vultos imortais
+Rio, dádiva da natureza
+aquarela universal
+os sambistas te elegeram ao som da música
+a nova Guanabara, eterna capital
+de encantos mil.
+
+Lá lá lá lá lá lá lá lá lá
+orgulho do meu Brasil",0.0,0.9996522665023804,"[1960, 1970)"
+29,1961,Joias das lendas brasileiras,"As jóias das lendas e crendices brasileiras
+entre as quais
+daquele que amarrava os animais a noite inteira
+cantando e assobiando era o Saci-Pererê
+as minhas chagas doem como o quê
+Iara, mãe d’água doce, a fascinadora
+dos homens que se aventuraram a ir até as margens do rio
+da esperança de conquistar sua beleza encantadora.
+A cobra grande do Nordeste cuja aparição
+teve início no dia
+em que a cabloca virgem atraída adormeceu
+só quem sabia do milagroso fruto
+era o filho do cacique
+que viu onde ela o escondeu.
+
+O Negrinho do Pastoreio e seu fiel ginete
+o mártir religioso
+superstições de várias regiões
+desse imenso Brasil poderoso.",0.0,0.9978378415107727,"[1960, 1970)"
+30,1962,Viagem pitoresca pelo Brasil,"Achou tão maravilhoso
+os custumes e a nossa natureza
+que transportou para as telas
+toda a imensa beleza.
+Deixou muitas aquarelas
+retratos a óleo, paisagens diversas e composições
+a arte de desenhar
+cresceu em suas mãos.
+Há de existir no museu de Munique
+documentado em pintura
+as cenas tristes e alegres
+das fazendas do Brasil
+nos tempos da escravatura.
+Retratou vários tipos raciais
+as paisagens e os costumes regionais
+do nosso Brasil de outrora
+catalogou os seus trabalhos e, embevecido,
+publicou-os, tornando conhecido
+um pouco do Brasil por este mundo afora.
+João Maurício Rugendas
+para nós é uma glória
+cantar e reviver teu passado
+tua obra grandiosa e tua história.",0.0,0.9896120429039001,"[1960, 1970)"
+31,1963,Exaltação ao Barão de Mauá,"Vulto de notável mérito
+que a indústria do país glorificou
+Irineu Evangelista de Souza
+a primeira estrada de ferro criou
+base para a siderurgia do Brasil
+fundição na Ponta da Areia
+o fator primordial do progresso nacional
+e também o canal do Mangue
+com suas palmeiras imperiais
+quantas lembranças nos traz
+Heranças históricas
+Rio antigo dos lampiões a gás
+
+Rio Grande do Sul
+berço desse ilustre brasileiro
+que adquiriu conhecimento no estrangeiro
+desenvolveu e protestou contra a navegação
+em trânsito livre no rio Amazonas
+por outra nação.
+Após sofrer rudes golpes de sorte
+nos derradeiros momentos da monarquia
+
+O pioneiro barão de Mauá
+em 89 desaparecia",-0.8,0.9352527260780334,"[1960, 1970)"
+32,1964,Segundo Casamento de D. Pedro I,"Era o desejo de todos
+que D. Pedro I
+desse ao povo brasileiro
+uma nova imperatriz
+para ser feliz
+embora o jovem imperador
+também sonhasse
+em conquistar um grande amor
+num principado da Europa
+a sua esposa mandou buscar
+fazendo da princesa Amélia
+Imperatriz do Brasil
+e companheira do seu lar.
+Lá lá lá lá lá lá lá lá lá
+
+No dia do seu casamento
+a Ordem da Rosa ele criou
+a corte estava engalanada
+era um lindo cenário
+de raro esplendor
+as ilustres personagens
+Prestavam homenagem
+ao par imperial
+desde o ato religioso
+das alianças e do bolo
+a valsa nupcial
+a orquestra animava a festa
+no salão da corte imperial.
+
+Lá, lá, lá
+Nã nã nã nã nã nã nã não
+nã nã nã nã nã nã nã não",0.0,0.9363967180252075,"[1960, 1970)"
+33,1965,Histórias do Rio quatrocentão,"Rio és um marco de glória
+És um berço na história do país
+Tens um povo alegre, hospitaleiro e tão feliz.
+É com desvelo e orgulho que iremos exaltar
+Teu fundador, o bravo Estácio de Sá
+Que transformou seus sonhos em realidade
+Expulsando os invasores
+Decidiu a sorte da cidade
+Pagando com a própria vida
+O preço do amor à liberdade.
+E após um século decorrido
+O povo conquistou retumbante vitória
+Jerônimo Barbalho, o herói destemido
+Com refulgência
+Nos legou os ideais da independência.
+Rio de Janeiro de São Sebastião
+Cidade-estado, em expansão secular.
+Salve! O Conde de Bobadela
+Benfeitor da cidade
+Que é a mais linda aquarela
+
+Rio antigo, das batucadas
+Dos rituais, capoeiras e congadas
+Oh! Meu Rio colonial
+Do mestre Valentim, artista genial.
+Não devemos esquecer o mártir Inconfidente
+O heróico Tiradentes!
+Salve! A princesa redentora Isabel
+Que aboliu a escravatura tão cruel
+Esse fato que tanto nos comove...
+
+Após a vinda de d. João VI, no século XIX
+Prosseguindo esta feliz apologia
+Lembramos o último baile da monarquia.
+
+Hoje no século XX, do caldeamento de raças
+Surgiu com requinte e graça
+No mundo aristocrata
+Consagrada beleza exuberante da mulata.
+
+Rio, teu panorama é um lindo relicário
+Todo Brasil se engalana
+Com a passagem de teu IV Centenário
+
+Ô ô ô ô ô
+Ruas do Rio, sempre cheias de esplendor
+Ô ô ô ô ô
+Hoje cantamos em teu louvor
+Lará lará lará...
+Lará lará lará...",-1.0,0.9955590963363647,"[1960, 1970)"
+34,1966,Memórias de um sargento de milícias,"Era no tempo do rei
+Quando aqui chegou
+Um modesto casal
+Feliz pelo recente amor
+Leonardo, tornando-se meirinho
+Deu a Maria Hortaliça um novo lar
+Um pouco de conforto e de carinho
+Dessa união nasceu um lindo varão
+Que recebeu o mesmo nome de seu pai
+Personagem central da história
+Que contamos neste carnaval
+Mas um dia Maria
+Fez a Leonardo uma ingratidão
+Mostrando que não era uma boa companheira
+Provocou a separação
+Foi assim que o padrinho passou
+A ser do menino tutor
+A quem deu imensa dedicação
+Sofrendo uma grande desilusão
+Outra figura importante de sua vida
+Foi a comadre parteira popular
+Diziam que benzia de quebranto
+A beata mais famosa do lugar
+Havia nesse tempo aqui no Rio
+Tipos que devemos mencionar
+Chico Juca era mestre em valentia
+E por todos se fazia respeitar
+O reverendo, amante da cigana
+Preso pelo Vidigal, o justiceiro
+Homem de grande autoridade
+Que à frente dos seus granadeiros
+Era temido pelo povo da cidade
+Luizinha, primeiro amor
+Que Leonardo conheceu
+E que dona Maria
+A outro como esposa concedeu
+Somente foi feliz
+Quando José Manuel morreu
+Nosso herói outra vez se apaixonou
+Quando sua viola a mulata Vidinha
+Esta singela modinha contou:
+Se os meus suspiros pudessem
+Aos seu ouvidos chegar
+Verias que uma paixão
+Tem poder de assassinar",0.3,0.9127222299575806,"[1960, 1970)"
+35,1967,Tal dia é o batizado,"Tiradentes,
+Valoroso mártir inconfidente
+Que o Brasil Possuiu
+Em vila Rica
+Cidade de Minas Gerais
+Que há muitos anos atrás
+Foi o palco de um capítulo a mais
+Da nossa história
+A senha dos revoltados
+Era:- TAL DIA É O BATIZADO
+Para que o Brasil fosse libertado
+Pelos conspiradores
+Que eram bravos inconfidentes
+intelectuais, vigários e coronéis
+Liderados pelo alferes Tiradentes
+Aquela época
+Visconde de Barbacena
+Executor da derrama
+Foi móvel essencial
+Para este episódio nacional
+Que incentivou indiretamente
+Tornar o Brasil independente",0.0,0.998895525932312,"[1960, 1970)"
+36,1968,O tronco do Ipê,"Apresentamos neste carnaval
+Esta estória exuberante
+Cheia de trechos sensacionais
+De episódios eletrizantes
+Escrita por José de Alencar
+Grande vulto de valor excepcional
+Orgulho da literatura nacional - tronco do Ipê
+É o ponto culminante desta estória
+Onde o pai Benedito fazia feitiçaria
+Reunia os escravos no local
+E lá fazia um batuque infernal!
+( solfejo do batuque) Muito importante e também de emoção
+Foi quando Alice caiu no boqueirão
+Mário num esforço sobrenatural
+Consumou a sua salvação
+Outro fato bem marcantes foi a carta
+Testemunho do barão
+E a passagem mais bela
+Foi o casamento de Mário e Alice na Capela
+Ô Ô ô ",0.0,0.9963357448577881,"[1960, 1970)"
+37,1969,Treze Naus,"Apesar de muitos séculos passados
+Jamais o povo esquecerá
+Essa gloriosa página
+Que hoje tornamos a exaltar
+Saindo de Portugal
+Trazendo sob o seu comando treze naus
+Com destino às índias
+Seguia Pedro Álvares Cabral
+Mas ao se afastar das calmarias
+Novas terras descobria
+Criava assim um mundo novo
+E glorificava um grande povo
+Lá, lá lá ( etc)
+
+Esse feito colossal
+fez o nobre de Belmonte, imortal
+O seu sangue de aventureiro
+Seu amor de marinheiro
+Ao seu Rei e a Portugal
+
+Sua bravura e coragem
+Cruzando mares e estranhas regiões
+Deles fizeram dele herói
+E orgulho de duas nações
+
+Ao finalizar esta epopéia deslumbrante
+Com imenso orgulho exaltamos
+O nome desse nobre navegante
+Lá, lá lá lá ( etc )",0.3,0.8965318202972412,"[1960, 1970)"
+38,1970,Lendas e mistérios da Amazônia,"Nesta avenida colorida
+A Portela faz seu carnaval
+Lendas e mistérios da Amazônia
+Cantamos neste samba original
+Dizem que os astros se amaram
+E não puderam se casar
+
+A lua apaixonada chorou tanto
+que do seu pranto nasceu o rio-mar
+
+E dizem mais
+Jaçanã, bela como uma flor
+Certa manhã viu ser proibido o seu amor
+Pois o valente guerreiro
+Por ela se apaixonou
+Foi sacrificada pela ira do Pajé
+E na vitória-régia
+Ela se transformou
+
+Quando chegava a primavera
+A estação das flores
+Havia uma festa de amores
+Era tradição das amazonas
+Mulheres guerreiras
+Aquele ambiente de alegria
+Só terminava ao raiar do dia
+
+Ô skindô lalá,
+Ô skindô lelê,
+Olha só quem vem lá
+É o saci pererê",0.375,0.7838695049285889,"[1970, 1980)"
+39,1971,Lapa em três tempos,"Vem dos Vice-Reis
+E dos tempos do Brasil imperial
+Através de tradições
+Até a república atual
+Os grandes mestres do passado
+Dedicaram obras de grande valor
+À Lapa de hoje
+À Lapa de outrora
+Que revivemos agora
+
+As serestas
+Quantas saudades nos traz
+Os cabarés e as festas
+Emolduradas pelos lampiões à gás
+As sociedades e os cordões
+Dos antigos carnavais
+
+Olha a roda de malandro
+Quero ver quem vai cair
+Capoeira vai plantando
+Pois agora vais subir
+Poeira....poeira ô poeira
+O samba vai levantar poeira
+
+Imagem do Rio antigo
+Berço de grandes vultos da história
+A moderna arquitetura lhe renova a toda hora
+Mas os famosos arcos
+Os belos mosteiros
+São relíquias deste bairro
+Que foi o berço de boêmios seresteiros
+
+Abre a janela formosa mulher
+Cantava o poeta trovador
+Abre a janela formosa mulher
+Da velha Lapa que passou.",0.0,0.9812038540840149,"[1970, 1980)"
+40,1972,Ilu Ayê,"Ilu Ayê, Ilu Ayê, Odara
+Negro cantava na nação nagô
+Depois chorou lamento de senzala
+Tão longe estava de sua Ilu Ayê
+Tempo passou Ô Ô
+E no terreirão da casa grande
+Negro diz tudo que pode dizer
+
+É samba, é batuque é reza
+É dança é ladainha
+Negro joga capoeira
+E faz louvação à rainha
+
+Hoje
+Negro é terra, negro é vida
+Na mutação do tempo
+Desfilando na avenida
+Negro é sensacional
+É toda festa de um povo
+E dono do carnaval
+Ilu Ayê...",0.0,0.9463160037994385,"[1970, 1980)"
+41,1973,Parságada,"Ao embarcar na ilusão
+Senti palpitar meu coração
+Na passarela um reino surgia
+Quanta alegria!
+Desembarquei feliz
+Tudo era fascinante neste mundo pequenino
+Até relembrei os dias do meu tempo de menino
+
+Na brincadeira de roda
+Rodei pelo mundo afora
+
+Neste reino azul
+Em tudo que velejei
+
+Aoê aoê aoê eu sei
+Eu sei que sou o maigo do rei
+Ns ondas do mar caminhei
+No azul do céu eu voei
+
+Lá vem ela na avenida
+Cinquentenária tão florida
+Portela, Portela oi
+Na vida és a ""Passárgada"" mais bela",0.0,0.8978936076164246,"[1970, 1980)"
+42,1974,O mundo melhor de Pixinguinha,"Lá vem Portela
+Com Pixinguinha em seu altar
+E altar de escola é o samba
+Que a gente faz
+E na rua vem cantar
+Portela
+Teu carinhoso tema é oração
+Pra falar de quem ficou
+Como devoção
+Em nosso coração
+
+Pizindin! Pizindin! Pizindin!
+Era assim que a vovó
+Pixinguinha chamava
+Menino bom na sua língua natal
+Menino bom que se tornou imortal
+A roseira dá
+Rosa em botão
+Pixinguinha dá
+Rosa, canção
+E a canção bonita é como a flor
+Que tem perfume e cor
+
+E ele
+Que era um poema de ternura e paz
+Fez um buquê que
+não se esquece mais
+De rosas musicais
+
+Lá vem Portela...",0.0,0.995853066444397,"[1970, 1980)"
+43,1975,Macunaíma,"Portela apresenta
+Do folclore tradições
+Milagres do sertão à mata virgem
+Assombrada com mil tentações
+Cy, a rainha mãe do mato, oi
+Macunaíma fascinou
+Ao luar se fez poema
+Mas ao filho encarnado
+Toda maldição legou
+
+Macunaíma índio branco catimbeiro
+Negro sonso feiticeiro
+Mata a cobra e dá um nó
+
+Cy, em forma de estrela
+À Macunaíma dá
+Um talismã que ele perde e sai a vagar
+Canta o uirapuru e encanta
+Liberta a mágoa do seu triste coração
+Negrinho do pastoreio foi a sua salvação
+E derrotando o gigante
+Era uma vez Piaiman
+Macunaíma volta com o muiraquitã
+Marupiara na luta e no amor
+Quando para a pedra para sempre o monstro levou
+O nosso herói assim cantou
+
+Vou me embora, vou me embora
+Eu aqui volto mais não
+Vou morar no infinito
+E virar constelação",0.0,0.8212791681289673,"[1970, 1980)"
+44,1976,Homem do Pacoval,"Voando
+Nas asas da poesia
+A Portela em euforia
+Vive um mundo de ilusão
+E vem cantar
+Os mistérios da Ilha de Marajó
+Uma historia que fascina
+Vem do alto da colina do Pacoval
+Sob o poder de Atauã
+O seu povo evoluindo
+Nas crenças costumes e tradições
+E o deus sol
+Era figura de grandeza
+A mãe Tanga a pureza
+Era símbolo da vida dos Aruãs
+Belzebu o rei do mal
+Era festejado em cerimonia especial
+La la la
+
+Iara que seduzia
+Pela magia do seu cantar
+E os Aruãs que felizes viviam
+Não ha explicação no seu silenciar
+O seu tesouro foi a causa da invasão
+Mas os tempos se passaram
+Veio a colonização
+Viveram nesse recanto de beleza
+Catarina de Palma e outros mais
+Terra abençoada pela natureza
+Com suas festas tradicionais
+
+Vaquejada, boi-bumbá
+Vem o gaiola vou viajar",0.0,0.9593625664710999,"[1970, 1980)"
+45,1977,Festa da Aclamação,"O dia raiou
+À tarde a passarada anunciou
+Que à noite era a festa
+Ao som de clarins
+A côrte se apresentou
+Em vários dias de festa
+A cidade se veste
+Com seu traje mais novo
+A praça em alegria se engalana
+Para receber o nosso povo
+Tribuna real, camarote e nobreza
+Que maravilha de luz e de cor
+O povo canta e o rei se encanta
+Com a força do canto de amor
+Viva o rei
+Viva o rei Dom João
+O rei mandou vadiar
+Na Festa da Aclamação
+
+(Que beleza !)
+
+Que beleza
+Uma índia com o seu manto real
+Que lindas alegorias
+O Deus Netuno protegendo o pessoal
+Vejam nessa passarela
+A imagem daquela festa tão bela
+
+Carnaval
+Festa do povo
+Aclamação
+É festa de novo",0.225,0.9847890138626099,"[1970, 1980)"
+46,1978,Mulher à brasileira,"Amor, amor, amor
+A mulher em festival
+Traz a Portela
+É riso, é luz, é cor
+É poema o carnaval
+Falando nela
+Tanta história pra contar
+Tantos nomes pra lembrar
+Com ternura e emoção
+Das heroínas que são
+Nosso orgulho e nossa tradição
+Dessas mulheres gentis
+Que fizeram meu país feliz
+(Vou cantar para exaltar!)
+
+Um sorriso em sua boca
+Um olhar daquele jeito
+Nossa alma fica louca
+Coração bate no peito
+Brancas, negras e morenas tem (ora se tem)
+O feitiço que as mulatas têm(e como têm)
+Brasileira é uma beleza em flor
+E beleza não tem cor
+
+Olê olê
+Olê olá
+Podem falar
+Mas mulher como a nossa igual não há",0.0,0.9957292675971985,"[1970, 1980)"
+47,1979,"Incrível, fantástico, extraordinário!","Chegou o canaval
+Vou me abraçar com a cidade
+Eu quero saber só da folia
+Nesta festa que irradia
+Sonhos mil, felicidades
+Oh quanto esplendor !
+Há palhaços, colombinas
+Arlequins e pierrôs
+O povo vai viver doce ilusão
+Se extasiando no jardim da sedução
+Ôôôôôôôôôôô  !
+A alegria já contagiou
+A ordem do rei é brincar
+Quatro dias sem parar
+
+Incrível ! Fantástico ! Extraordinário !
+O talento de um povo
+Que mantém acesa a chama da tradição
+O carioca tem um ""quê""
+Sabe amar e viver
+Ao dançar no salão ou no cordão
+Trabalha de janeiro a janeiro
+Em fevereiro cai na delícia da folia
+Mestre-sala e porta-bandeira
+Riscam o chão de poesia
+
+Segura baiana
+Ioiô iaiá
+Na quarta-feira
+Tudo vai se acabar",0.0,0.9998931884765625,"[1970, 1980)"
+48,1980,Hoje tem marmelada,"A brisa me levou ôô
+Para um reino encantado
+Onde eu me fiz menino-rei
+E era o circo
+O meu palácio dourado
+Como é doce
+Ser criança outra vez
+E me atirar nos braços da alegria
+Quero me perder na minha imaginação
+E brincar na ilusão
+Ôôôô ôôôô
+Vem de lá ó criançada
+Que hoje tem marmelada
+Pois o circo já chegou
+
+E nesse reino encantado
+A arte se faz aplaudir
+Me embala na rede do tempo
+Feliz sonhador
+Sou criança e vou sorrir
+Arranco do peito um aplauso
+E num abraço venho homenagear
+Hoje a alegria do palhaço
+Na tristeza dá um laço
+E faz minha escola cantar
+
+Ó raia o sol o dindin
+Suspende a lua dindin
+Salve o palhaço
+Que está lá no meio da rua",0.0,0.6094404458999634,"[1980, 1990)"
+49,1981,Maravilhas do mar,"Deixa-me encantar
+Com tudo teu e revelar lalaia lalaia
+O que vai acontecer
+Nesta noite de esplendor
+O mar subiu na linha do horizonte
+Desaguando como fonte
+Ao vento a ilusão teceu
+O mar (oi o mar)
+Por onde andei mareou(mareou)
+Rolou na dança das ondas
+No verso do cantador
+Dança quem tá na roda
+Roda de brincar
+Prosa na boca do vento
+E vem marear
+
+Eis o cortejo irreal
+Com as maravilhas do mar
+Fazendo o meu carnaval
+É a brisa a brincar
+A luz raiou pra clarear a poesia
+Num sentimento que desperta na folia
+Amor sorria ôôô
+Um novo tempo despertou
+
+E lá vou eu
+Pela imensidão do mar
+Essa onda que borda a avenida de espuma
+Me arrasta a sambar",0.0,0.9306239485740662,"[1980, 1990)"
+50,1982,Meu Brasil brasileiro,"Vem me fascinar
+Oh que sedução
+O canto de minha gente
+Assediando meu coração
+Semente que a arte germinou
+E o tempo temperou
+Amor (ô amor)
+Como é gostoso amar(amar)
+Se a vida é contra-dança
+O folclore é o par
+Espalhei no meu caminho (ô)
+Olê, olê, olá (olê, olá)
+Sou folclore, sou a brisa
+Esta noite no meu verso
+Vou lhe beijar
+
+No meu país tudo é assim
+A lua acende a poesia lá no céu(lá no céu)
+Violeiro, repentista
+Seresteiro e sambista
+Desafiam em cordel
+Sou namorado
+Troco mágoas pela flor
+Capoeira também chora
+Quando perde o seu amor
+
+Amar eu sei
+Isso é muito mais que amor
+Eu sou amante
+E sou menino sonhador
+Das escolas de samba
+
+Me leva, me leva
+Me leva baiana que eu também vou
+Mestre-sala e porta-bandeira
+Girando num conto de amor",0.0,0.989835798740387,"[1980, 1990)"
+51,1983,Ressurreição da Coroa,"Vou me embalar na poesia
+Do amor e sedução
+Extravasando de alegria
+O meu coração
+Tecendo nas malhas do tempo
+De toda coroação
+Do índio à nobreza
+A beleza da ressurreição
+
+Reisado reino reinado
+Ganga-Obá Chico-Rei foi coroado
+
+A teia que a realeza teceu
+A terra amada acolheu
+Um sol se fez raiar
+Velas brancas
+Deslizando nas ondas
+De um eterno azul do mar
+A independência flutuou
+Assim a liberdade ecoou
+Ôôô ôôô
+Um canto forte se alastrou
+Trazendo a miscigenação de amor
+De pluma, de ouro, de prata ou de lata
+As coroas têm as suas tradições
+
+O rei mandou sambar
+O rei mandou vadiar
+No carnaval das ilusões",0.0,0.7024222612380981,"[1980, 1990)"
+52,1984,Contos de Areia,"Vou me embalar na poesia
+Do amor e sedução
+Extravasando de alegria
+O meu coração
+Tecendo nas malhas do tempo
+De toda coroação
+Do índio à nobreza
+A beleza da ressurreição
+
+Reisado reino reinado
+Ganga-Obá Chico-Rei foi coroado
+
+A teia que a realeza teceu
+A terra amada acolheu
+Um sol se fez raiar
+Velas brancas
+Deslizando nas ondas
+De um eterno azul do mar
+A independência flutuou
+Assim a liberdade ecoou
+Ôôô ôôô
+Um canto forte se alastrou
+Trazendo a miscigenação de amor
+De pluma, de ouro, de prata ou de lata
+As coroas têm as suas tradições
+
+O rei mandou sambar
+O rei mandou vadiar
+No carnaval das ilusões",0.0,0.7024222612380981,"[1980, 1990)"
+53,1985,Recordar é viver,"A Portela vem
+Tão bela, oi, tão bela
+Colorindo a passarela
+Com pedaços de alegria
+(E traz na mente...)
+Traz na mente a saudade
+No peito a esperança
+Voa águia em sua liberdade
+Abre as alas da lembrança
+(Mergulhei)
+
+Mergulhei no passo (e sonhei)
+E sonhei (sonhei)
+Com o meu mundo encantado
+Majestoso e divino
+O meu reino era um cassino
+Com cenário multicor
+Onde a noite tinha vida
+E a vida mais amor
+
+Façam o jogo
+Que a roleta vai girar
+Quem brincar com fogo
+Pode se queimar
+
+Recordar é viver
+O sonho prosseguia
+No Teatro de Revista
+Com milhares de artistas
+O palco e a magia, ô ô ô
+
+Ô ô ô ô ô ô ô ô ô ô
+O circo chegou, meu povo
+Revivendo a ""Marmelada""
+Na Sapucaí de novo",-0.4,0.6172264814376831,"[1980, 1990)"
+54,1986,A utopia brasileira,"Eu hoje só quero saber
+De esfriar minha cabeça
+Cantar, sorrir, pular
+E esquecer minha tristeza (oh Morfeu)
+Deixa Morfeu me levar
+Nos seus braços, sonhador
+Quero fugir da realidade
+Desse mundo sofredor
+Nessa noite eu vou
+Fazer da dor minha alegria
+Sepultar eu vou o dissabor
+Do dia-a-dia
+Ver o meu irmão plantando
+No verde sertão
+Descolar um troco e pagar
+Geral pro meu patrão (que é vacilão)
+Ver minha Portela estourando
+A boca do balão
+Vai, meu time, arrebenta
+Até parece o escrete de setenta
+
+O índio em sua selva a sorrir
+Feliz nesse torrão
+Livre do FMI e da poluição
+
+Como é triste o despertar dessa ilusão
+
+Que pesadelo
+Meu Deus, quanta taxa pra pagar
+É trem lotado, que sacrifício danado
+Desempregado e com criança pra criar
+O nosso ouro lá da serra tá pelado
+Já que está tudo arrombado
+Deixa o leão se arrumar
+
+No país da bola
+Só deita e rola
+No país da bola
+Quem vem com dólar...",0.0,0.7420770525932312,"[1980, 1990)"
+55,1987,"Adelaide, a pomba da paz","Como se fosse magia
+Nosso poeta alcançou
+O afã da poesia
+Foi aí que clareou
+Clareou é do infinito
+Oh! Que tema tão bonito
+Adelaide, a pomba da paz
+Está escrito
+
+Voa, voa, voa
+Deixa a tristeza de lado
+Voa, voa, voa
+Vai levar o seu recado
+
+Leia esse matutino vai mudar o seu destino
+Disse o tucano falador
+Preciso de um mensageiro
+Que seja bem ligeiro
+Que leve a paz aonde for
+
+Pomba, entre na floresta
+Aproveite, a hora é esta
+De aliviar a sua dor
+Ilumine a escuridão
+Faz feliz o coração
+De qualquer sofredor, ô ô ô
+
+São quatro letras
+Que fazem sonhar
+É o amor, que se espalha no ar
+Neste dia de folia
+Sigam o exemplo desta pomba
+Desativem esta bomba
+Prá ninguém se machucar
+
+Amar é bom, amar é bom
+É bom demais, é felicidade
+É sinônimo de paz",0.0,0.9775146245956421,"[1980, 1990)"
+56,1988,Lenda carioca,"Está fazendo um centenário
+A Portela em louvação
+Voa com a liberdade
+A águia e o negro num só coração
+Tece versos de amor
+Que o Vice-Rei sonhou
+Neste cenário de paixão... de paixão
+A hora é esta
+De irmanar a multidão
+Canta, meu povo
+Canta, meu povo
+Vem no embalo
+Que a lenda é carioca (canta, canta)
+Canta, meu povo
+Vem sambar de novo
+
+Peripécias do amor, ô ô
+O Vice-Rei sofreu
+Foi Vicente quem casou, ô ô
+O sonho se acabou
+Suzana, musa deste mar de lama
+Simplesmente a tua chama
+Queima o peito de quem ama
+Valentim, foi ele sim
+Sim, quem esculpiu
+A fonte dos amores
+Recanto tão sutil
+
+Briga, eu, eu quero briga
+Hoje eu venho reclamar
+(O que que tem, o que que há)
+Esta praça ainda é minha
+Eu também estou fominha
+Jacaré quer me abraçar",0.0,0.9453216791152954,"[1980, 1990)"
+57,1989,Achado não é roubado,"Achei
+Juro eu não roubei
+Desde o meu tempo de criança
+A vovó sempre dizia
+Achado não é roubado
+Tá na lembrança
+De repente o Sr. Cabral
+Chegou ao Brasil
+Aportou a sua nau
+E disse ao mundo que o descobriu
+Na verdade a história conta
+Um faz de conta
+Ao seu modo e ao revés
+Aí, e aí
+A natureza se impôs tão ricamente
+A Amazônia é um tesouro
+Que hoje está presente
+(Olha lá!)
+
+Olha lá, olhá lá
+Olha lá Salomão (Salomão, Salomão!)
+O tesouro é meu majestade
+Não vá tirar da minha mão
+
+Assim a história segue em frente
+Sinceramente eu não consigo entender
+Quem é o dono da cartola
+Que fez este gigante aparecer
+É tão triste olhar
+Sem poder, sem poder reconquistar
+Índio é o filho da terra
+Que no meio desta guerra
+Só faz se lamentar
+
+Quem foi, diz quem foi amor
+Ninguém sabe, ninguém viu (ninguém viu)
+Eu queria é saber, saber
+Quem descobriu o meu Brasil",0.0,0.5684496760368347,"[1980, 1990)"
+58,1990,É de ouro e de prata esse chão,"Eu segui a luz da poesia
+Às regiões mais distantes
+E encontei toda a magia
+De três raças tão amantes
+Eu vi caciques adorando a lua
+E caravelas colorindo o mar
+Eu vi a dança de uma virgem nua
+E as oferendas pra Iemanjá
+Eu vi a arte com o nome da folia
+Desse chão se levantar
+Tomar carona na ciranda da alegria
+Dar a mão ao tempo e comigo brincar
+Canta meu cordel
+Eu fiz de barro as imagens lá do céu
+Ê muié rendá
+Tira essa renda que hoje eu quero namorar
+
+Me leva minha luz às tradições
+Quero violas ao luar desses sertões
+Quero ser o rei dessa congada
+General da marujada
+Bicho solto dos cordões
+Meu sangue se mesclou de vez
+Nos caiapós, cateretês
+Nos frevos e maracatus
+Mentiras, ""tus"",  ""anarriês""
+
+Eu vi num colorido amanhecer
+O sonho da Portela acontecer",0.05000000000000002,0.9918191432952881,"[1990, 2000)"
+59,1991,Tributo à vaidade,"Eu sou viadosa .......
+Eu sou assim ..........
+Vaidade não tem preço
+Mais eu tenho seu apreço]
+Pois você gosta de mim
+Eu sei que faço seu corpo arrepiar
+Eu sei que você não vai sem me ver passar
+Eu já vi você chorar
+Na hora do meu desfile encerrar
+
+Perguntei ao espelho meu
+Qual delas é mais linda do que eu
+Ele então me respondeu
+Mas linda do que eu só eu
+
+O meu azul veio lá do infinito
+O meu canto é mais bonito
+Salve Oswaldo Cruz e Madureira
+Me chamam celeiro de bamba
+A majestade do samba
+Da velha guarda formosa e faceira
+
+Eu sou e sei que sou
+Mais fascinante , deslumbrante , mais amor
+Bem sei que você aprova
+Pois meu visual comprova
+Eu sou luxo e esplendor
+
+Olha eu aí
+Cheguei agora
+Cheguei pra levantar o seu astral
+Posso perder , posso ganhar , isso é normal
+Vinte uma vezes campeã do carnaval !!!!",0.18310546875,0.94707190990448,"[1990, 2000)"
+60,1992,Todo o azul que o azul tem,"Encontrei no pavilhão da minha Escola
+A beleza mais notória pro meu visual
+Tá nas cores da bandeira do meu país
+Tá no espaço sideral
+Não esquente a cabeça
+Tá tudo azul, tudo legal
+Olha nós aí de novo
+Com a Portela azulando o seu astral
+
+É dos deuses, é divinal
+Vem da Pérsia tradicional
+
+Quero a alegria de um azulão
+Sobrevoando o lindo azul do mar
+Dei bilhete azul para a tristeza
+Amor vem comigo sambar
+Oh! Estrela, soberana triunfal
+Cor de pedra preciosa
+Traz a nobreza para o carnaval
+
+Que saudade, que felicidade
+Novamente encontrar
+Eu sou o rio que passou em sua vida
+Tem corações se deixando levar",0.125,0.9867743253707886,"[1990, 2000)"
+61,1993,Cerimônia de casamento,"Eu vou lhe convidar pro camarote
+Quero lhe mostrar o dote
+Desta doce união
+Veja, arquibancada está em festa
+Na mais sublime relação
+Até que enfim
+Encontrei alguém que gosta só de mim
+E na verdade, essa tal felicidade
+Vai comigo até o fim
+Me leva, amor (ô ô ô)
+Sou Adão no Paraíso
+Me encantou
+A sedução do seu sorriso
+
+É hora de emoldurar contos de fada
+De conquistar a paz sonhada
+E festejar no arraial
+Eu sei que o amor conduz à eternidade
+Da colorida amizade
+À comunhão tradicional
+Lá vou eu
+Meu casamento é minha fé
+Quero fazer bodas de ouro
+E preservar a criação como Noé
+
+É bom demais amar, amar, amar
+Vou me acabar nesse véu
+Vem Portela consagrar
+Meu samba em lua-de-mel",0.0,0.9404064416885376,"[1990, 2000)"
+62,1994,Quando o samba era samba,"África encanto e magia
+Berço da sabedoria
+Razão do meu cantar
+Nasceu a liberdade a ferro e fogo
+A Mãe Negra abriu o jogo
+Fez o povo delirar
+Deixa falar, ô, ô, ô
+Deixa falar, ô, iaiá
+Esse batuque gostoso não pode parar
+Entra na roda ioiô
+Entra na roda iaiá
+Lá vem Portela é melhor se segurar
+Axé vem de Luanda
+Sacode negritude da cidade
+Trazendo a bandeira do samba
+N'apoteose da felicidade
+
+Samba é nó na madeira
+É moleque mestiço
+Foi preciso bancar
+Resistência que a força não calou
+Arte de improvisar
+
+Capoeira
+O samba vai levantar poeira
+Tem zoeira
+Em Oswaldo Cruz e Madureira",0.0,0.9668512344360352,"[1990, 2000)"
+63,1995,Gosto que me enrosco,"É carnaval
+O Rio abre as portas pra folia
+É tempo de sambar
+Mostrar ao mundo a nossa alegria
+Veio bailando pelo mar
+E de lá pra cá nasceu essa magia
+Samba, que me faz feliz
+Em sua raiz tem arte e poesia
+Bate o bumbo, lá vem Zé Pereira
+E faz Madureira de novo sonhar
+A Portela não é brincadeira
+Sacode a poeira, faz o povo delirar
+Gosto que me enrosco de você, amor
+Me joga seu perfume, hoje eu tô que tô
+
+Praça Onze, berço das nossas fantasias
+Deixa Falar deixou no peito a nostalgia
+Dos ranchos, blocos e cordões
+Dos mascarados nos salões
+Pierrot beijando a Colombina
+Chuva de confete e serpentina
+Dos bondes ficou a saudade
+Ah! Que saudade do luxo das Sociedades
+
+Abram alas, deixa a Portela passar
+É voz que não se cala
+É canto de alegria no ar",-0.4,0.7036256194114685,"[1990, 2000)"
+64,1996,Essa gente mostra seu valor,"
+Chegou a hora
+Portela alegremente vem cantar (lá laiá lá)
+Com um brilho atraente de swing irreverente
+Fazendo assim o mundo inteiro ""delirar"" (ô delirar)
+Melodias que se tornaram marcantes
+De artistas delirantes
+Iluminados pela estrela do criar
+Como ""Memórias"" de Paulinho da Viola
+Ismael, mestre Cartola
+Eu vou cantando para os males espantar
+Canta iaiá pra ioiô, canta ioiô pra iaiá
+Um samba quente, um chorinho de amor (eu vou)
+Na onda do iê-iê-iê, eu sou o rei pra você
+Fazendo a festa até o dia amanhecer
+
+""Chega de saudade""
+Meu peito invade, eu lembro do meu amor
+Linda é a ""Garota de Ipanema"", seu gingado é um poema
+Na ""Asa Branca"" sou eterno sonhador
+""Pra não dizer que não falei das flores""
+Vou me expressar mostrando todo o meu valor
+Eu sou a arte que embala a esperança
+Onde passo sou bonança
+Bela ""Aquarela Brasileira"" decantou
+
+A Portela demorou, mas abalou
+E o povo canta novamente, já ganhou",0.0,0.7959293127059937,"[1990, 2000)"
+65,1997,Linda eternamente Olinda,"Eu naveguei, encontrei
+Um paraíso secular
+Novo mundo vou mostrar
+Majestosa e tão bela
+Vim brilhar na passarela
+Oh! Linda eterna Portela
+Nas ladeiras poesia
+Seu ouro branco e coqueirais
+Bordada pelo mar
+Ninguém esquecerá
+Seu folclore popular
+Vou invadir seu coração, Olinda
+Encantando esta nação, tão linda
+Acervo de beleza natural
+Olinda, patrimônio mundial
+
+Vou viajando assim
+No frevo e maracatu
+Ciranda e serenata
+Vejam!
+Como é lindo seu carnaval
+Quarta-feira de cinzas
+Vou sair no bacalhau
+
+E a Portela
+Mostra como é linda
+Oh! Linda, Olinda",0.378125,0.9986147880554199,"[1990, 2000)"
+66,1998,Os Olhos da Noite,"A noite
+Se vestiu de azul e branco
+Abriu seu manto
+Com encanto e poesia
+Seus olhos, são a luz do luar
+Que ilumina a passarela
+Para a Portela brilhar
+
+Poetas, trovadores, canções de amores
+Sonhos, fantasias, mistério, magia
+E a noite veio seduzir o dia
+
+Vem me beijar, amor
+Te quero só pra mim
+Maravilhosa flor
+Que enfeita o meu jardim
+
+Vem, sem medo de ser feliz
+Mariposas, travestis
+Dama da noite faz a vida
+
+Tem lendas, fascínio e sedução
+E a Portela na avenida
+O que é, o que é...
+É uma noite de paixão
+
+É lua cheia, amor
+Sai dessa fossa
+Cai no meu samba
+Que hoje a festa é nossa",0.0,0.976713240146637,"[1990, 2000)"
+67,1999,Os caminhos de Minas Gerais,"Lá vem o trem, lá vem, lá vem
+Nesse balanço eu vou também
+Com minha Portela e você meu bem
+Viajei... Pelos caminhos de Minas
+Encontrei obras bem feitas pela mão divina
+Solo rico em minerais e belezas sem iguais
+E essa gente hospitaleira
+Trabalhando com bravura e amor
+Pela cultura brasileira
+Poetas, cantores, escritores geniais
+Mago da escultura e figuras imortais
+Heróis incofidentes e presidentes
+Que deram o coração
+Pelo progresso da nossa nação
+
+Ô, ô Minas Gerais, ô, ô Minas Gerais
+Quem te conhece não te esquece mais
+Quem te conhece não te esquece jamais
+
+Lá teve escrava que se fez rainha
+E a feiticeira lá em Araxá ... E sinhá ...
+Um rei ... Com seu toque de bola encantou o mundo
+Guerreira, com o canto de um sabiá
+Pura magia e poesia popular
+
+Traz o tempero desse teu quitute
+Um cafezinho pra adoçar o paladar
+Vem pra congada, marujada, cavalhada
+Toca sanfona nesse arrasta pé
+Canta pro santo um canto de fé
+
+Luz com seus raios divinais
+Iluminai nossa Portela
+Que vem cantar Minas Gerais",0.6,0.9979274272918701,"[1990, 2000)"
+68,2000,Trabalhadores do Brasil,"O raiar de um novo dia
+Desafia meu pensar
+Voltando à época de ouro
+Vejo a luz de um tesouro
+A Portela despontar (lálalaiá)
+Aclamado pelo povo, o Estado Novo
+Getúlio Vargas anunciou
+A despeito da censura
+Não existe mal sem cura
+Viva o trabalhador ôôô
+
+Nossa indústria cresceu (e lá vou eu...)
+Jorrou petróleo a valer...
+No carnaval de Orfeu
+Cassinos e MPB
+
+O Rei da Noite, o teatro, a fantasia
+No rádio as rainhas, a baiana de além-mar
+Tantas vedetes, cadilacs, brilhantina
+Em outro palco o movimento popular
+E no Palácio das Águias
+Ecoou um grito a mais
+Vai à luta meu Brasil
+Pela soberana paz
+Quem foi amado e odiado na memória
+Saiu da vida para entrar na história
+
+Meu Brasil-menino
+Foi pintado em aquarela
+Fez do meu destino
+O destino da Portela
+
+(O raiar...)",0.6,0.9457688927650452,"[2000, 2010)"
+69,2001,Querer é poder,"Vai voar, minha Águia, meu bem-querer
+Soberana na avenida, desfilando seu poder
+Água, terra, fogo e ar
+A natureza fazendo o mundo girar
+No pensamento há solução
+Pra salvar nosso mundo ou pra destruição
+O bem e o mal, eterno conflito
+Emana da mente poder infinito
+Fé num ser maior que nos conduz
+Certeza de encontrar a sua luz
+
+Sou energia, cristal, o brilho do carnaval
+Sou Portela !
+Magia de uma paixão, misteriosa emoção
+É meu coração na passarela
+
+Ter é poder, não ter é querer
+Nem sempre traz felicidade
+Compra ilusão, corrompe a razão
+Transforma sonhos em realidade
+O mundo onde impera a ambição
+Pode ir pros ares no aperto de um botão
+Podres poderes que fazem o homem
+Tentar tomar a vez do criador
+Tirando vidas que um dia ele plantou
+
+O povo vai cantar
+Querer é poder, queremos mudar
+Na esperança de um novo dia
+De paz, amor e alegria
+
+(Vai voar...)",0.0,0.9961267113685608,"[2000, 2010)"
+70,2002,Amazonas,"Meu coração está em festa
+Enloqueceu
+No seu rio mar
+Meu rio azul vai desaguar
+Sob o verde desse olhar
+O Ajuricaba seu canto ecoou
+Acunhatã se banhou no lago
+Na índia flor transformou
+Amazonas seiva na mata a jorrar
+Alumia cadeeiro São José do Rio Negro
+Vai Caboclo seringar
+Teatro, sinfonia
+Zona Franca e o industrial
+Portela faz a festa nesse enredo
+Universo tropical
+
+Gira mundo a respirar
+Dentro do meu coração
+Nesse eldorado Verde
+Na palma da minha mão
+
+Poema Odisséia
+Emergiu e conquistou o país
+Vai meu barco deslizando
+Vou pintando esse matiz
+É o presente consciente no provir
+Que a vida se preserve
+Que a vida se preserve
+Assim serei feliz
+Como a natureza quis
+
+É Boi Bumbá
+É Boi maneiro
+Garantido e Caprichoso
+No meu Rio de Janeiro",0.0,0.71638023853302,"[2000, 2010)"
+71,2003,"Ontem, hoje e sempre","De um sonho fez-se um gesto de amor, amor, amor
+Das luzes uma ""cidade"" criou
+O Rio assiste em cena
+O ""Mundo"" que o maestro imaginou
+Um chão de estrelas vai surgindo
+Envolvendo os corações
+Cinemas, Night and day, teatros, felicidade é a lei
+No palco da paixão a cinelândia ""faz opinião""
+Boêmios, cantores, um beijo roubado ao luar
+A poesia sorrindo em cada mesa de bar
+A voz não pode calar, a gente tem que lutar
+O povo ""faz a hora"" de mudar
+
+Onde o amor faz morada já é madrugada
+Deixa o dia clarear
+É bom estar com você, de novo a gente vai ver
+O sol, a rua, o filme que o vento não levou
+Somos o ""cais"", emblema da paz
+Velas ao vento, vem ""navegar""
+Voar no azul mais bonito, buscar no infinito
+A alegria do meus carnavais
+
+Voa, voa, divina luz de Madureira
+O samba na praça, no embalo da massa
+A Portela não é brincadeira",0.0,0.9335542917251587,"[2000, 2010)"
+72,2004,Lendas e mistérios da Amazônia,"Nesta avenida colorida
+A Portela faz seu carnaval
+Lendas e mistérios da Amazônia
+Cantamos neste samba original
+Dizem que os astros se amaram
+E não puderam se casar
+
+A lua apaixonada chorou tanto
+que do seu pranto nasceu o rio-mar
+
+E dizem mais
+Jaçanã, bela como uma flor
+Certa manhã viu ser proibido o seu amor
+Pois o valente guerreiro
+Por ela se apaixonou
+Foi sacrificada pela ira do Pajé
+E na vitória-régia
+Ela se transformou
+
+Quando chegava a primavera
+A estação das flores
+Havia uma festa de amores
+Era tradição das amazonas
+Mulheres guerreiras
+Aquele ambiente de alegria
+Só terminava ao raiar do dia
+
+Ô skindô lalá,
+Ô skindô lelê,
+Olha só quem vem lá
+É o saci pererê",0.375,0.7838695049285889,"[2000, 2010)"
+73,2005,Nós podemos,"Portela hoje abraça o mundo
+Num amor profundo pela fraternidade
+O samba é o porta-voz
+E nós podemos desatar os nós
+Da desigualdade
+E vem... sorriso de criança
+A esperança em cada coração
+E nesse dia de folia, faz a sua profecia
+Liderando a emoção
+
+Um mundo sem fome
+Sem dor e sem guerra
+Quem viver verá
+O manto da paz cobrindo a terra
+O que há de ser será
+
+Ensinando a viver a vida, como ela é
+Respeitando os direitos da mulher
+Dando a juventude um novo amanhã
+Saúde, corpo e mente sã
+Combater o HIV
+E toda epidemia que aparecer
+Preservar a natureza
+Ver o bem vencer o mal
+A ONU e o samba, parceria ideal
+Pro desenvolvimento mundial
+
+A mensagem da Portela
+É pra toda humanidade
+Vamos semear amor
+Pra colher felicidade",0.9,0.9943352341651917,"[2000, 2010)"
+74,2006,Brasil marca sua cara,"O brasileiro é nosso maior tesouro
+A Portela vem mostrar
+Através da história, nossa formação
+Fatos que marcaram a nação
+Contam que outras civilizações
+Também estiveram por aqui
+Deixaram marcas que estão no tempo
+Antes da cobiça invadir (meu Brasil)
+
+A lua banhava de prata
+As matas, os rios e o mar
+Será que tanta beleza
+De nativa riqueza
+Refletiu num povo singular
+
+Invasão que deixou neste chão
+O traço europeu
+Alma e raça africana
+Que tanto sofreu
+Se misturou com sabor imigrante
+Deixando heranças culturais
+Incomparável mistura só aqui se faz
+Brasil arte numa tela multicor
+É crença que a fé espalhou
+Exemplo para o mundo inteiro
+A alegria e o talento brasileiro
+
+É o povo que faz a marca desse país
+Risonho, capaz, feliz
+Com os olhos da águia
+Eu vejo a nossa inspiração
+Raiando o dia no azul de emoção",0.0,0.9916678071022034,"[2000, 2010)"
+75,2007,Os deuses do Olimpo,"O mensageiro do Olimpo anunciou: é carnaval!
+Brasil, hoje é a terra dos deuses
+Lindo paraíso tropical
+A majestade do samba
+Acende a chama e recebe as nações
+Seu manto cobre o Rio de janeiro
+Chegou a hora de unir os corações
+Voa minha águia leva o meu cantar
+Semeando a paz pelas Américas
+O show do Pan vai começar
+
+Sou recordista de samba no pé
+Exemplo de garra e fé
+Medalha de ouro em bateria
+Eu sou atleta e canto até raiar o dia
+
+O homem lutou por fronteiras
+Por seus interesses, religiões...
+Hoje suplanta barreiras,
+Desfaz preconceitos, juntando nações...
+Esporte é vida! É beleza e emoção
+É esperança, amizade, inspiração
+Portela, de azul e branco em aquarela
+Supera todos os limites
+Vem levantar sua bandeira
+O samba, de alma verde e amarela
+Abençoado pelos deuses
+Vem coroar Oswaldo Cruz e Madureira
+
+Eu sou a raiz do samba
+Saúde e beleza na Passarela
+O ninho da águia, celeiro de bambas
+Sou Rio, sou esporte, sou Portela",0.0,0.9996333122253418,"[2000, 2010)"
+76,2008,Reconstruindo a Natureza,"
+Segue os passos do criador
+Vai minha Águia Gerreira
+Leva essa mensagem de amor
+De Oswaldo Cruz e Madureira
+Água, fonte eterna da vida
+Terra, templo da evolução
+O homem surgiu, brincou de criar
+Descobriu tanta riqueza
+É preciso progredir sem destruir
+Viver em comunhão com a natureza
+É o rio que corre a caminho do mar
+A flor que se abre na primavera
+Do ventre a esperança que vem renovar
+O sonho de uma nova era
+
+É hora de darmos as mãos
+Lutarmos pro mundo mudar
+O líder de cada nação
+Precisa parar pra pensar
+A palavra é união
+Pra reconstruir o nosso lar
+Brasil, teu verde é o símbolo da vida
+Renova a tua energia
+Meu coração é o meu país
+O sol vai brilhar pra anunciar
+Um futuro mais feliz
+
+Eu sou a água, sou a terra, sou o ar
+Sou Portela
+Um sonho real, um grito de alerta
+A natureza que encanta a passarela",0.2,0.9964616894721985,"[2000, 2010)"
+77,2009,Por falar em amor,"Brilha Portela! Das trevas renasce o amor...
+Doze cavaleiros se uniram
+Um rei a lealdade conquistou
+Lendas do povo europeu
+Feitiços, mistérios, magia
+A lua vem beijar o astro rei
+A noite se encontra com o dia
+Lágrimas, nos olhos do Imperador
+Na Índia, o palácio da saudade
+Mãe Árica negra! O amor cruza o mar!
+Liberdade!
+Meu coração guerreiro
+É raça, é filho desse chão
+Meu canto tem raiz, é brasileiro
+É natureza e miscigenação
+
+Cenas de cinema, lindos temas de amor
+A união da família, momentos que o vento levou
+O homem tem que usar a consciência,
+As maravilhas da ciência
+Para viver em harmonia
+Vem recordar... Ranchos, blocos e cordões
+Os mascarados nos salões
+As fantasias do Municipal
+Embarque nesse bonde é Carnaval!
+São vinte e uma estrelas que brilham no meu olhar
+Se eu for falar da Portela não vou terminar
+Lá vem minha águia no céu da paixão!
+O azul que faz pulsar meu coração!
+
+Oh! Majestade do Samba
+Meu orgulho maior é tua bandeira
+Chegou minha Portela! Meu eterno amor
+A luz de Oswaldo Cruz e Madureira",0.0,0.9998137354850769,"[2000, 2010)"
+78,2010,Derrubando fronteiras,"Portela segue os passos da evolução... Liberdade!
+Num clique deleta barreiras
+Deleta fronteiras da realidade
+Desperta o bem social
+Acessa o amor digital
+Faz da criança um cidadão
+Positivo pra nação
+Na rede nossas vidas vão se transformar
+Do ventre mais um ser nascerá
+O dia de graça que o “mestre” cantou
+Já raiou!
+O meu pavilhão é minha paixão!
+A luz da ciência é ela...
+É samba, é jaqueira que não vai tombar
+Sou Portela!
+
+Mãos unidas pela inclusão
+Povos, raças em comunhão
+Vai meu verso ao mundo ensinar
+É preciso navegar!
+Brilhou no céu mais um sinal
+Cruzando o espaço sideral
+Portela... Portal cultural de um país
+Um “link” com a nossa raiz
+Rainha da passarela
+Revela um rio de paz pra viver
+A senha de um amanhecer
+Mais feliz
+
+Minha águia guerreira
+Vai voar... Viajar!
+Pousar no sonho de ganhar o carnaval
+E conquistar o mundo virtual!",0.06319444444444444,0.9975000023841858,"[2010, 2020)"
+79,2011,Rio azul da cor do mar,"Brilhou no céu
+A luz da Águia, a estrela-guia
+Do coração navegador
+Que na travessia enfrentou
+Todo o medo que havia
+Era a mitologia do mar
+A lenda deu lugar para a certeza
+Que pra viver é preciso navegar
+As galés do Oriente...já vêm!
+Da Fenícia e do Egito... também!
+Gregos e romanos partem para conquistar
+e o Farol de Alexandria fez a noite clarear
+Os mistérios vão desvendar
+Um novo caminho encontrar
+Lá na Índia, especiarias
+Leva-e-traz mercadorias
+
+A ambição do europeu se encantou
+Com o Novo Mundo de riqueza natural, sem igual
+Os navios negreiros
+Deixam seus lamentos pelo ar
+Nas águas de Yemanjá
+Nem pirata aventureiro, nem o rei podem mandar
+Oi leva mar, oi leva
+Leva a jangada numa nova direção
+O Porto centenário abriu seus braços
+Na terra de São Sebastião
+Portela vai buscar no horizonte
+A eterna fonte de inspiração
+Um oceano de amor que virou arte
+E deságua na imaginação
+
+Lindo como o mar azul
+Meu grande amor, minha Portela
+A força do seu pavilhão vai me levar
+A navegar",0.1,0.9959651231765747,"[2010, 2020)"
+80,2012,O povo na rua cantando,"Meu rei
+Senhor do Bonfim alumia
+Os caminhos da Portela
+Que eu guardo no meu patuá
+Eu vim com a proteção dos meus guias
+Com Clara Guerreira à Bahia
+Cheguei, eu cheguei pra festejar
+Deixa levar, nos altares e terreiros
+Tem jarro com água de cheiro
+Vou jogar flores no mar
+
+No mar
+Procissão dos navegantes
+Eu também sou almirante
+De nossa senhora Iemanjá
+
+Vou no gongá
+Bater tambor
+Rezo no altar
+Levo o andor
+Vem chegando os batuqueiros
+Desce a ladeira meu amor
+Que a patuscada começou
+Eu vim pra rua
+Que o samba de roda chegou
+
+Iaiá
+De saia rendada em cetim
+Bota o tempero na festa
+Oi, tem abará e quindim
+
+Portela cheia de encantos
+Acolhe a Bahia em seu canto
+De festas, rezas, rituais
+Vestido de azul e branco
+Eu venho estender o nosso manto
+Aos meus santos do samba que são orixás
+
+Madureira sobe o Pelô, tem capoeira
+Na batida do tambor, samba ioiô
+Rola o toque de olodum...lá na ribeira
+A Bahia me chamou",0.0,0.7146321535110474,"[2010, 2020)"
+81,2013,Madureira,"E lá vou eu cantando com a minha viola
+O amor tem seus mistérios
+Por onde me deixo levar
+Laiá
+Nossa história começa por lá
+No engenho da fazenda
+Dos cantos de “canaviá”
+
+Bate o sino da capela
+Oi, que é dia de santo sinhá
+
+Tem mironga de jongueiro
+O tambor me chamou pra dançar
+
+Tempo rodou na roda do trem e veio
+A inspiração do partideiro
+Que versou no Mercadão
+Foi nesse chão
+Que a estrela brilhou no tablado
+O “Madura” pisou no gramado
+O malandro do charme dançou
+No pagode com outro gingado
+Quando o bloco chegou
+Agitou o suingue do black
+E a nega baiana girou
+
+Cai na folia comigo meu bem vem na fé
+Na ilusão da fantasia
+Vai como pode quem quer
+
+Surgiu a coroa imperial
+Em outros caminhos para o mesmo ritual
+Portela, meu orgulho suburbano
+Traz os poetas soberanos
+Nesse trem para cantar
+Que Madureira é muito mais do que um lugar
+É capital do samba que me faz sonhar
+
+Abre a roda, chegou Madureira
+A poeira já vai levantar
+O batuque ginga ioiô
+Ginga Iaiá
+
+O batuque ginga ioiô
+Ginga “iaiá""",-0.16666666666666666,0.8411145806312561,"[2010, 2020)"
+82,2014,Mar a mar,"Vou de mar a mar, mareia
+Vou de mar a mar, mareia, mareou
+Iluminai o tambor do meu terreiro
+Ó santo padroeiro
+O axé da Portela chegou!
+
+O canto do cais do valongo ôôôôôôô
+Que veio de Angola, Benin e do Congo
+Tem semba, capoeira e oração
+O rio sai da roda de jongo e vai desaguar
+Na glória de São Sebastião
+
+Oi, bota abaixo, sinhô
+Oi, bota abaixo, sinhá
+Lá vem o rio de terno de linho
+E chapéu panamá
+
+A correnteza de um rio branco é que traz
+A arte do canto e a dança
+De todos os sons musicais
+O teatro da vida não sai de cartaz
+A ilusão é uma atriz
+Se exibindo na praça linda e feliz
+Eu vou da revolta da chibata
+Ao sonho que faz passeata
+Seguindo a canção triunfal
+
+Nesse rio que vem e que vai
+Traço o meu destino
+E viro menino pra brincar de carnaval
+
+Sou carioca, meu jeito é de quem
+Vem com o sorriso do samba que a gente tem
+Meu peito é um porto aberto
+Pra te receber meu bem",0.0,0.5356696248054504,"[2010, 2020)"
+83,2015,Sou carioca,"Sou carioca
+Sou de Madureira
+A Tabajara levanta poeira
+Pra essa festa maneira
+Meu bem me chamou
+Lá vem Portela, malandro
+O samba chegou
+
+Oh, meu Rio
+A águia vem te abraçar e festejar
+Feliz cidade sem igual
+Paraíso divinal
+
+E eu daqui, feito Dali
+Em traços te retrato surreal
+
+A natureza lhe foi generosa
+Na Guanabara, formosa mulher
+Despertou cobiça, beleza sem fim
+Delícias de um nobre jardim
+
+Eu vi o menino do rio versar
+Um lindo poema
+Para impressionar a princesinha do mar
+Sonhando com a Garota de Ipanema
+
+Vem amor,
+A Lapa dá o Tom pra boemia
+Vem amor
+A nave da emoção nos contagia
+Lá vem o trem chegando com o povo do samba
+Lá vai viola, o batuque só tem gente bamba
+Tão bela!
+Orgulhosamente a Portela
+Vem cantar em seu louvor, ô ô ô ô
+Central do meu Brasil inteiro
+Morada do redentor",0.15625,0.9954172372817993,"[2010, 2020)"
+84,2016,Sou a águia,"Eu sou a Águia, fale de mim quem quiser
+Mas é melhor respeitar, sou a Portela
+Nessa viagem, mais uma estrela
+Que vai brilhar no pavilhão de Madureira
+
+Voar nas asas da poesia
+Rasgar o céu da mitologia
+E nessa Odisséia viajar
+Meus olhos vão te guiar, na travessia
+E no meu destino sem fim
+Cruzar o azul que é tudo pra mim
+Enfrentar tormentas e continuar, a navegar
+
+Oh leva eu me leva, aonde o vento soprar eu vou
+Oh leva eu me leva, sou livre aonde sonhar eu vou
+
+Quisera ir ao infinito
+Sentir lugares tão bonitos
+Em terras mais distantes me aventurar
+Sem saber se um dia vou voltar
+
+E mais além, no elo perdido cheguei
+No vai e vem, a chave da vida encontrei
+
+Vou pedir passagemem
+Busca do ouro
+O seu brilho me fascina
+Quero esse mapa da mina, pra achar tesouros
+Abre a janela, pro mundo que Paulo criou
+Do outro lado, alguém pode ver esse amor
+Meus filhos vem me adorar
+O Samba reverenciar
+Abram alas, vou me apresentar",-0.4,0.6780661344528198,"[2010, 2020)"
+85,2017,Esse Rio passar,"Vem conhecer esse amor
+A levar corações através dos carnavais
+Vem beber dessa fonte
+Onde nascem poemas em mananciais
+Reluz o seu manto azul e branco
+Mais lindo que o céu e o mar
+Semente de Paulo, Caetano e Rufino
+Segue seu destino e vai desaguar
+
+A canoa vai chegar na aldeia
+Alumia meu caminho, Candeia (bis)
+Onde mora o mistério, tem sedução
+Mitos e lendas do ribeirão
+
+Cantam pastoras e lavadeiras pra esquecer a dor
+Tristeza foi embora, a correnteza levou
+Já não dá mais pra voltar (ô iaiá)
+Deixa o pranto curar (ô iaiá)
+Vai inspiração, voa em liberdade
+Pelas curvas da saudade
+Oh, mamãe ora yê yê ô vem me banhar de axé
+ora yê yê ô
+
+É água de benzer, água pra clarear
+Onde canta um sabiá
+
+Salve a Velha Guarda, os frutos da jaqueira
+Oswaldo Cruz e Madureira
+Navega a barqueada, aos pés da santa em louvação
+Para mostrar que na Portela o samba é religião
+
+O perfume da flor é seu
+Um olhar marejou sou eu
+Quem nunca sentiu o corpo arrepiar
+Ao ver esse rio passar",0.0,0.9882391691207886,"[2010, 2020)"
+86,2018,De lá pra cá,"Vamos simbora povo vencedor
+Contar a mesma história
+Sou nordestino, estrangeiro, versador
+Eh eh eh viola
+Vem do arrecife oio azul cabra da peste
+No doce do meu agreste, querendo se lambuzar
+Oi o mar maré de saudade, oi o mar
+Pedindo paz a javé, perseguido na fé
+O imigrante veio trabaiá
+Oh saudade que vai na maré
+Passa o tempo e não passa a dor
+E um dia Pernambuco o português reconquistou
+Luar do sertão, ilumina
+Pra quem deixou esse chão, triste sina
+Ô cumpadi em seu peito leva um dó
+Cada um em seu destino e a tristeza dá um nó
+
+Vixi maria lá no meio do caminho
+Tem pirata no navio
+O pagamento não foi ouro nem foi prata
+Essa gente aperriada foi, seguindo
+Ô gira ciranda, vai a chuva vem o sol, deixa cirandar
+
+Chega criança, homem, muié
+No abraço dessa terra só não fica quem não quer
+
+É legado, é união, é presente, igualdade
+É Noviórque pedestal da liberdade
+A minha águia em poesia de cordel
+22 vezes minha estrela lá no céu
+
+Lá vem Portela é melhor se segurar
+Coração aberto, quem quiser pode chegar
+Vem irmanar a vida inteira
+Na campeã das campeãs em Madureira",0.0,0.8867971301078796,"[2010, 2020)"
+87,2019,Madureira moderníssima,"Axé, sou eu
+Mestiça, morena de Angola, sou eu
+No palco, no meio da rua, sou eu
+Mineira, faceira, sereia a cantar, deixa serenar
+Que o mar de Oswaldo Cruz a Madureira
+Mareia a brasilidade do meu lugar
+Nos versos de um cantador
+O canto das raças a me chamar
+De pé descalço no templo do samba estou
+É rosa, é renda pra Águia se enfeitar
+Folia, furdunço, ijexá
+Na festa de Ogum beira-mar
+É ponto firmado pros meus orixás, Eparrei!
+
+Eparrei Oyá, Eparrei
+Sopra o vento, me faz sonhar
+Deixa o povo se emocionar
+Sua filha voltou, minha mãe
+
+Eparrei Oyá, Eparrei
+Sopra o vento, me faz sonhar
+Deixa o povo se emocionar
+Sua filha voltou, minha mãe
+
+Pra ver a Portela tão querida
+E ficar feliz da vida
+Quando a Velha Guarda passar
+A negritude aguerrida em procissão
+Mais uma vez deixei levar meu coração
+A Paulo, meu professor
+Natal, nosso guardião
+Candeia que ilumina o meu caminhar
+Voltei à Avenida saudosista
+Pro Azul e Branco modernista eternizar
+Voltei, fiz um pedido à Padroeira
+Nas Cinzas desta Quarta-feira, comemorar
+
+Nossas estrelas no céu estão em festa
+Lá vem Portela com as bênçãos de Oxalá
+No canto de um Sabiá, sambando até de manhã
+Sou Clara Guerreira, a filha de Ogum com Iansã
+
+Nossas estrelas no céu estão em festa
+Lá vem Portela com as bênçãos de Oxalá
+No canto de um Sabiá, sambando até de manhã
+Sou Clara Guerreira, a filha de Ogum com Iansã",0.0,0.5887501239776611,"[2010, 2020)"
+88,2020,Terra sem males,"Índio é Tupinambá
+Índio tem alma guerreira
+Hoje meu Guajupiá é Madureira
+Voa águia na floresta
+Salve o samba, salve ela
+Índio é dono desse chão
+Índio é filho da Portela
+
+Índio é Tupinambá
+Índio tem alma guerreira
+Hoje meu Guajupiá é Madureira
+Voa águia na floresta
+Salve o samba, salve ela
+Índio é dono desse chão
+Índio é filho da Portela
+
+Clamei aos céus
+A chama da maldade apagou
+E, num dilúvio, a Terra ele banhou
+Lavando as mazelas com perdão
+Fim da escuridão
+Já não existe a ira de Monã
+No ventre, há vida, novo amanhã
+Irim Magé já pode ser feliz
+Transforma a dor
+Na alegria de poder mudar o mundo
+Mairamuana tem a chave do futuro
+Pra nossa tribo lutar e cantar
+
+Auê, auê, a voz da mata, okê, okê arô
+Se Guanabara é resistência
+O índio é arco, é flecha, é essência
+Auê, auê, a voz da mata, okê, okê arô
+Se Guanabara é resistência
+O índio é arco, é flecha, é essência
+
+Ao proteger Karioka
+Reúno a maloca na beira da rede
+Cauim pra festejar, purificar
+Borduna, tacape e ajaré
+Índio pede paz, mas é de guerra
+Nossa aldeia é sem partido ou facção
+Não tem bispo, nem se curva a capitão
+Quando a vida nos ensina
+Não devemos mais errar
+Com a ira de Monã
+Aprendi a respeitar a natureza, o bem viver
+
+Pro imenso azul do céu
+Nunca mais escurecer
+Pro imenso azul do céu
+Nunca mais escurecer",0.0,0.8794762492179871,
+89,2022,Baobá,"Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Prepara o terreiro, separa a mucua
+Apaoká baixou no xirê
+Em nosso celeiro a gente cultua
+Do mesmo preceito e saber
+
+Raiz imponente da primeira semente
+Nós temos muito em comum
+O elo sagrado de Ayê e Orum
+Casa pra se respeitar, meu baobá
+
+Ôbatalá, colofé
+Tem batucada no arê
+Pra minha gente de fé, ayeraye
+Nessa mironga tem mão de ofá
+Põe aluá no coité e dandá
+
+Ôbatalá, colofé
+Tem batucada no arê
+Pra minha gente de fé, ayeraye
+Nessa mironga tem mão de ofá
+Põe aluá no coité e dandá
+
+Saluba, Mamãe!
+Fiz do meu samba curimba
+Mata a minha sede de axé
+Faz, do meu Igi Osè, moringa
+
+Quem tenta acorrentar um sentimento
+Esquece que ser livre é fundamento
+Matiz suburbano, herança de preto
+Coragem no medo
+
+Meu povo é resistência feito um nó
+Na madeira do cajado de Oxalá
+Força africana, vem nos orgulhar
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Prepara o terreiro, separa a mucua
+Apaoká baixou no xirê
+Em nosso celeiro a gente cultua
+Do mesmo preceito e saber
+
+Raiz imponente da primeira semente
+Nós temos muito em comum
+O elo sagrado de Ayê e Orum
+Casa pra se respeitar, meu baobá
+
+Ôbatalá, colofé
+Tem batucada no arê
+Pra minha gente de fé, ayeraye
+Nessa mironga tem mão de ofá
+Põe aluá no coité e dandá
+
+Ôbatalá, colofé
+Tem batucada no arê
+Pra minha gente de fé, ayeraye
+Nessa mironga tem mão de ofá
+Põe aluá no coité e dandá
+
+Saluba, Mamãe!
+Fiz do meu samba curimba
+Mata a minha sede de axé
+Faz, do meu Igi Osè, moringa
+
+Quem tenta acorrentar um sentimento
+Esquece que ser livre é fundamento
+Matiz suburbano, herança de preto
+Coragem no medo
+
+Meu povo é resistência feito um nó
+Na madeira do cajado de Oxalá
+Força africana, vem nos orgulhar
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor
+
+Azul e banto, aguerê e alujá
+Pra poeira levantar, de crioula é meu tambor
+Ilu ayê na ginga do meu lugar
+Portela é baobá no congá do meu amor",0.0,0.6652779579162598,
+90,2023,Azul que vem do infinito,"Prazer novamente encontrar vocês
+Ali pelas bandas de Oswaldo Cruz
+Nosso mundo azul ganha vez
+E aquela missão nos conduz
+Eu, Rufino e Caetano
+No linho, no pano, pescoço ocupado
+Vencemos mesmo marginalizados
+No bailar, uma porta bandeira
+A nobreza desfila humildade
+Natal nos guiou, deu Águia!
+A Majestade
+
+Abre a roda, malandro, que o samba chegou
+Andei na Lapa, também já subi o Pelô
+Macunaíma falou: Nas maravilhas do mar
+A brisa me levou
+Eis um Brasil de glórias que incandeia
+A vaidade é um conto de areia
+Eu vim me apresentar
+Deixa a Portela passar!
+
+Lendas e mistérios de um amor
+Casa onde mora a profecia
+Clara como a luz de um esplendor
+Cem anos da mais bela poesia
+Vivam esse sonho genuíno
+De fazer valer nosso legado
+Vejo um futuro mais lindo
+Nas mãos de quem sabe o valor do passado
+Ser Portela é tanto mais
+Que nem cabe explicação
+Basta ouvir os Baluartes
+Pra chorar de emoção
+
+Cavaco e viola, a velha linhagem
+A bênção Monarco pra essa homenagem
+O céu de Madureira é mais bonito
+Te amo, Portela, além do infinito",0.0,0.9193222522735596,
