@@ -13,4 +13,4 @@ matplotlib
 seaborn
 
 # Resultado
-Em breve, reportagem publicada no Nexo Jornal com os achados.
+https://www.nexojornal.com.br/expresso/2023/02/17/100-anos-da-Portela-as-tem%C3%A1ticas-dos-sambas-da-escola-carioca
